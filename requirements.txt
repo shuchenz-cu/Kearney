@@ -1,0 +1,10 @@
+### Install required python packages with specific version
+
+streamlit==1.8.1
+pandas==1.4.4
+numpy==1.23.5
+gurobipy==9.5.2
+protobuf==3.20.*
+vega_datasets==0.9.0
+altair==4.1.0
+cvxpy==1.3.0
